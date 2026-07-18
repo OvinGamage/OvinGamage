@@ -38,7 +38,7 @@ I am completing this program to master the modern data science pipeline.
 * **Engineering Application:** Using data-driven insights to analyze system performance, parse experimental data, and automate data workflows.
 * link to completion certificate --->https://coursera.org/share/186a565f6a4a1aabc3cf1c79d58516ca
 
-### 📜 Project Management Coursework & Frameworks
+### 📜 Google Project Management Professional Certificate (Coursera)
 Understanding how to write code is only half the battle; knowing how to ship a project effectively is the other. I have trained in modern project management methodologies to ensure my technical work aligns with structured delivery frameworks.
 * **Core Competencies:** Agile/Scrum and traditional Waterfall methodologies, project scoping, risk mitigation, and sprint planning.
 * **Engineering Application:** Applying structured management to complex engineering builds—ensuring projects are scoped accurately, technical debt is minimized, and collaboration is seamless.
