@@ -20,10 +20,10 @@ I view software, data, and intelligent systems as essential tools for the modern
 
 ##  🚀 What I'm Hacking Away At Right Now
 
-🧠 Deepening my Applied Machine Learning knowledge through DeepLearning.AI’s Machine Learning Specialization (Coursera)—focusing on supervised/unsupervised learning, neural networks, and model evaluation.
-📚 Advancing my C++ Object-Oriented Programming (OOP) to model complex physical and dynamic systems.
-📉 Building local Python scripts to parse, clean, visualize, and apply predictive models to engineering datasets.
-🔧 Streamlining my local terminal, Git workflows, and compilation environments.
+•🧠 Deepening my Applied Machine Learning knowledge through DeepLearning.AI’s Machine Learning Specialization (Coursera)—focusing on supervised/unsupervised learning, neural networks, and model evaluation.
+•📚 Advancing my C++ Object-Oriented Programming (OOP) to model complex physical and dynamic systems.
+•📉 Building local Python scripts to parse, clean, visualize, and apply predictive models to engineering datasets.
+•🔧 Streamlining my local terminal, Git workflows, and compilation environments.
 
 ## 🎓 Featured Coursework & Certifications
 
@@ -43,7 +43,5 @@ To round out my academic engineering foundation, I pursue industry-standard trai
 • Engineering Application: Applying structured management to complex engineering builds—ensuring accurate scoping, technical debt minimization, and seamless delivery.
 • Certificate Link: https://coursera.org/share/9b37a1e253ef914a9813f9944cb700f2
 
-## 📈 My GitHub Analytics
 
-I update this space with local scripts, lab implementations, ML projects, and academic work as I build and grow.
 
