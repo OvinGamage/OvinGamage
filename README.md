@@ -1,52 +1,56 @@
 # Hi, I'm Ovin Gamage 👋
 
-I am an Engineering Student driven by the intersection of rigorous academic theory and practical software execution. While my university curriculum provides me with a deep foundation in analytical thinking and core engineering principles, I actively build out my programming, data, and management toolkit to bring those engineering concepts to life.
+I am an Engineering Student driven by the intersection of rigorous academic theory, embedded systems, and practical software execution. While my university curriculum provides me with a deep foundation in analytical thinking and core engineering principles, I actively build out my programming, machine learning, and hardware toolkit to bring intelligent systems to life.
 
-I view software, data, and intelligent systems as essential tools for the modern engineer—allowing me to simulate systems, optimize workflows, predict outcomes, and translate complex data into actionable engineering decisions.
+I view software, data, and edge intelligence as essential tools for the modern engineer—allowing me to simulate physical systems, run real-time inference on low-power microcontrollers, optimize workflows, and translate complex sensor data into actionable decisions.
 
 ---
 
-## 🛠️ My Technical & Management Toolkit
+## 🛠️ Technical & Embedded Toolkit
 
-### ⚙️ Engineering & Low-Level Fundamentals (C++)
-* **Core Focus:** Memory management, pointers, array optimization, and algorithmic efficiency.
-* **Why it matters:** Understanding how software interacts directly with hardware gives me a deeper appreciation for system constraints and efficient engineering design.
+### ⚡ Edge AI & Embedded Systems (C++ & Microcontrollers)
+* **Core Focus:** TinyML deployment, microcontrollers (Arduino/ESP32), memory constraints, hardware simulation (WOKWI), and sensor data ingestion.
+* **Why it matters:** Bringing machine learning models out of the cloud and directly onto resource-constrained edge devices enables real-time, low-latency, and offline intelligent engineering systems.
 
-### 📊 High-Level Systems, Analytics & ML (Python)
-* **Core Focus:** Data manipulation, statistical modeling, machine learning fundamentals, and automated data pipelines.
-* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn.
+### ⚙️ Core Fundamentals & Algorithmic Design (C++)
+* **Core Focus:** Object-Oriented Programming (OOP), explicit memory management, pointers, array optimization, and low-level system design.
+* **Why it matters:** Understanding software-hardware interactions ensures optimal resource utilization when building high-performance or constrained embedded applications.
 
-### 🗂️ Project Delivery & Frameworks
-* **Core Focus:** Agile/Scrum and traditional Waterfall methodologies, project scoping, and risk mitigation.
-* **Why it matters:** Ensuring that complex engineering builds are executed systematically, technical debt is managed, and milestones are hit effectively.
+### 📊 Data Science, Analytics & Machine Learning (Python)
+* **Core Focus:** Exploratory Data Analysis (EDA), statistical modeling, pipeline automation, model training, and quantization/optimization for embedded targets.
+* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow / TensorFlow Lite for Microcontrollers.
+
+### 🗂️ Technical Project Delivery & Systems Frameworks
+* **Core Focus:** Agile/Scrum, Waterfall methodologies, scope definition, technical debt management, and risk mitigation.
+* **Why it matters:** Guarantees that complex hardware-software integrations are planned rigorously, tested thoroughly, and delivered on target.
 
 ---
 
 ## 🚀 What I'm Hacking Away At Right Now
 
-* **🧠 Advanced ML:** Exploring advanced applications of Machine Learning—building upon my completed foundational models to tackle complex predictive tasks.
-* **📚 C++ OOP:** Advancing my Object-Oriented Programming to model complex physical and dynamic systems.
-* **📉 Data Automation:** Building local Python scripts to parse, clean, visualize, and apply predictive models to engineering datasets.
-* **🔧 Workflow Optimization:** Streamlining my local terminal, Git workflows, and compilation environments.
+* **🧠 Edge AI & TinyML Deployments:** Quantizing and converting trained ML models to run directly on microcontrollers for real-time sensor processing and localized inference.
+* **🔬 Physics & System Modeling in C++:** Leveraging OOP to construct robust simulations of physical dynamics, hardware states, and signal streams.
+* **📉 End-to-End ML Pipelines:** Automating the flow from raw embedded sensor data ingestion to cloud/local Python model training and back down to microcontrollers.
+* **🔧 Dev Environment Optimization:** Fine-tuning terminal workflows, Git pipelines, C++ compilation toolchains, and hardware simulators.
 
 ---
 
 ## 🎓 Featured Coursework & Certifications
 
-To round out my academic engineering foundation, I pursue industry-standard training that prepares me to design, manage, and execute technical projects from end to end:
+To complement my core engineering foundation, I pursue industry-standard training to design, build, and deploy intelligent end-to-end engineering builds:
 
-### 🤖 Machine Learning Specialization – DeepLearning.AI (Coursera) [Completed]
-* **Focus:** Mastered fundamental and advanced ML algorithms (Regression, Logistic Regression, Neural Networks, Decision Trees, Clustering, and Recommender Systems).
-* **Engineering Application:** Applying predictive modeling, pattern recognition, and optimization techniques to solve complex engineering and physical system challenges.
-* **Certificate Link:**[View Certificate](https://coursera.org/share/25265e2a41cc7178c9d091a5127d3fe5)  
+### 🤖 Machine Learning Specialization – DeepLearning.AI (Coursera)
+* **Focus:** Core machine learning algorithms (Supervised/Unsupervised Learning, Neural Networks, Decision Trees, Recommender Systems).
+* **Engineering Application:** Building predictive models and intelligent algorithms that transition into real-world and edge applications.
+* **Certificate Link:** [View Certificate](#)
+
 ### 📜 Google Advanced Data Analytics Professional Certificate (Coursera)
-* **Focus:** Mastered the modern data science pipeline, EDA, statistical modeling, and regression.
-* **Engineering Application:** Using data-driven insights to analyze system performance, parse experimental data, and automate workflows.
-* **Certificate Link:** [View Certificate](https://coursera.org/share/186a565f6a4a1aabc3cf1c79d58516ca)
+* **Focus:** Advanced EDA, statistical modeling, predictive analytics, and automated data pipelines.
+* **Engineering Application:** Cleaning and preprocessing noisy physical/sensor datasets for model training and edge deployment.
+* **Certificate Link:** [View Certificate](#)
 
 ### 📜 Google Project Management Professional Certificate (Coursera)
-* **Focus:** Agile/Scrum, Waterfall, project scoping, risk mitigation, and sprint planning.
-* **Engineering Application:** Applying structured management to complex engineering builds—ensuring accurate scoping, technical debt minimization, and seamless delivery.
-* **Certificate Link:** [View Certificate](https://coursera.org/share/9b37a1e253ef914a9813f9944cb700f2)
-
+* **Focus:** Agile/Scrum planning, Waterfall methodologies, risk analysis, and lifecycle tracking.
+* **Engineering Application:** Structured delivery of multidisciplinary projects across hardware, software, and data domains.
+* **Certificate Link:** [View Certificate](#)
 
