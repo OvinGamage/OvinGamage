@@ -3,7 +3,7 @@
 I build intelligent systems that sit between machine learning, embedded hardware, and real-world signal processing.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;ML+%7C+Edge+AI+Developer;Signal+Processing+Enthusiast;Low-Level+Optimization+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;ML+%7C+Edge+AI+Developer;Signal+Processing+%26+TinyML" alt="Typing introduction" />
 </div>
 
 ## About Me
@@ -47,6 +47,16 @@ I build intelligent systems that sit between machine learning, embedded hardware
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OvinGamage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvinGamage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OvinGamage&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## A Little Extra Whimsy
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFsMnZqMWRwcmMxejcybm9wMXoxbmZicmIyMjhxZzJ3cnlmcXB4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif" alt="Coding animation" width="500" />
 </div>
 
 ## Let's Connect
