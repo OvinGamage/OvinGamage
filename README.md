@@ -1,49 +1,61 @@
 # Hi, I'm Ovin Gamage 👋
 
-## ⚡ Quick Bio & Key Traits
+I build intelligent systems that sit between machine learning, embedded hardware, and real-world signal processing.
 
-- 🔬 Analytical Builder — Driven by core physics, OOP, and low-level system optimization.
-- ⚡ Edge Intelligence Enthusiast — Bridging the gap between heavy ML models and low-power microcontrollers.
-- 📊 Data-Driven Mindset — Transforming raw, noisy sensor streams into precise engineering decisions.
-- 🚀 Relentless Learner — Continuously building, testing, and refining hardware-software toolchains.
-  
- <img src="https://github-readme-stats.vercel.app/api?username=OvinGamage&show_icons=true&theme=tokyonight&hide_border=true" /> 
-
-## 🧰 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" alt="GitHub Codespaces" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;ML+%7C+Edge+AI+Developer;Signal+Processing+Enthusiast;Low-Level+Optimization+Builder" alt="Typing SVG" />
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![Ovin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFsMnZqMWRwcmMxejcybm9wMXoxbmZicmIyMjhxZzJ3cnlmcXB4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=500&lines=Embedded+Systems;TinyML+Developer" />
 
+## About Me
 
-## 📈 GitHub Activity
+- 🔬 I’m driven by physics, system design, and low-level optimization.
+- ⚡ I work at the intersection of ML models and resource-constrained microcontrollers.
+- 📊 I enjoy turning noisy sensor data into actionable engineering insight.
+- 🚀 I like building, testing, and refining the full software-hardware toolchain.
 
-<div align="left">
+## Core Interests
+
+- Embedded C/C++ and firmware architecture
+- Edge AI and TinyML deployment
+- Sensor signal processing and anomaly detection
+- Real-time systems, optimization, and debugging
+- ML pipelines for constrained environments
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
+</div>
+
+## Current Focus
+
+- Building efficient ML systems for embedded and edge devices
+- Designing firmware + data pipeline workflows for sensor-based diagnostics
+- Exploring robust feature extraction and anomaly detection in constrained environments
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OvinGamage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvinGamage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</div>
+
+## Let's Connect
+
+- 💼 Open to collaborations in embedded AI, signal processing, and intelligent systems
+- 📫 Reach out via GitHub or explore my repositories below
+
+<div align="center">
   <a href="https://github.com/OvinGamage">
-    <img src="https://github-readme-stats.vercel.app/api?username=OvinGamage&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://img.shields.io/badge/GitHub-%40OvinGamage-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Profile" />
   </a>
 </div>
-
-<div align="left">
-  <a href="https://github.com/OvinGamage">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvinGamage&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</div>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Engineering+Student;Embedded+Systems+%26+TinyML;C%2B%2B+%26+Python+Developer;Building+Edge+AI" alt="Typing SVG" />
-  </a>
-</p>
