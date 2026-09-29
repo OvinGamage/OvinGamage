@@ -6,6 +6,8 @@
 - ⚡ Edge Intelligence Enthusiast — Bridging the gap between heavy ML models and low-power microcontrollers.
 - 📊 Data-Driven Mindset — Transforming raw, noisy sensor streams into precise engineering decisions.
 - 🚀 Relentless Learner — Continuously building, testing, and refining hardware-software toolchains.
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=OvinGamage&show_icons=true&theme=tokyonight&hide_border=true" /> 
 
 ## 🧰 Tech Stack
 
@@ -21,6 +23,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Ovin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFsMnZqMWRwcmMxejcybm9wMXoxbmZicmIyMjhxZzJ3cnlmcXB4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=500&lines=Embedded+Systems;TinyML+Developer" />
+
 
 ## 📈 GitHub Activity
 
@@ -35,3 +42,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvinGamage&layout=compact&theme=dark" alt="Top Languages" />
   </a>
 </div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Engineering+Student;Embedded+Systems+%26+TinyML;C%2B%2B+%26+Python+Developer;Building+Edge+AI" alt="Typing SVG" />
+  </a>
+</p>
