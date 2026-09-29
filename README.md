@@ -44,10 +44,7 @@ I build intelligent systems that sit between machine learning, embedded hardware
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OvinGamage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvinGamage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OvinGamage&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
